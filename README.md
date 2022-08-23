@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmm777&label=Profile%20views&color=0e75b6&style=flat" alt="vmm777" /> </p>
 
-- 🔭 Atualmente estuando **Ciência da computação - UEPB**
+- 🔭 Atualmente estudando **Ciência da computação - UEPB**
 
 - 🌱 Estou me aperfeiçoando em **Desenvolvimento Web e Mobile**
 
